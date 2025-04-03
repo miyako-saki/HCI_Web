@@ -127,7 +127,7 @@ section {
     }
     nav .fa-solid {
         display: block;
-        color: var(--brown);
+        color: var(--light-yellow);
         margin: 10px;
         font-size: 22px;
         cursor: pointer;
@@ -145,7 +145,7 @@ section {
     align-items: center;
     justify-content: left;
     padding: 0 9%;
-    background: url("Pictures/Banner.jpg");
+    background: url("../Pictures/Banner.jpg");
     background-size: cover;
     background-position: center;
 }
